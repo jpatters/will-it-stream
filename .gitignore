@@ -1,0 +1,8 @@
+*.pem
+*.zip
+*.nex
+*.crx
+*.xpi
+*.rdf
+build/
+Cakefile
